@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "f7271d1083944548",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d3e74a57d378fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c0307bcaaf0041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "695acfeb8596e154",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b33f1a3a9e1abc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58bc2a9b39416fc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "92e241466da6afdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f49fcc13de7d5504",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28621d8e398e2962",
+    "type": "split",
+    "children": [
+      {
+        "id": "9669a8fd3103e46c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a2832b68110f49f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "e978d4a27f47d3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "34ca7eb109d50f10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2b45925d662c8c92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "76926f3d30dc0e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "c7c0307bcaaf0041",
+  "lastOpenFiles": [
+    "未命名.md",
+    "欢迎.md",
+    "chatgpt/五种优先语言 ChatGPT 分析.md",
+    "2025-12-17.md",
+    "chatgpt/3d tool 关键词.md",
+    "owz/欢迎.md",
+    "owz",
+    "Gemini/防止 ahref 等等 SEO 网站 抓取我的流量？怎么搞？.md",
+    "Gemini/轻后端，防 DDOS.md",
+    "Gemini/对比.md",
+    "Gemini/对于经常出现的那个问题，一个解决方案.md",
+    "Gemini/位置修复代码.md",
+    "Gemini/不要下载网页.md",
+    "Gemini/又一个报错.md",
+    "Gemini/Open Core（核心开源，插件闭源）.md",
+    "Gemini/JavaScript 是一门多范式语言。React（目前最火的前端框架）甚至在几年前就号召大家放弃 Class 组件，全面拥抱函数式组件（Hooks）。.md",
+    "Gemini",
+    "chatgpt/book主题配置中文翻译.md",
+    "chatgpt/我的 Open World Zone 要拿的所有关键词.md",
+    "chatgpt/不要驼背.md",
+    "chatgpt/git 常用命令.md",
+    "chatgpt/chatgpt 给我推荐的关键词.md",
+    "chatgpt/base64 终端.md",
+    "chatgpt/auth.md",
+    "chatgpt/api.md",
+    "chatgpt",
+    "每日使用/2025-12-16.md",
+    "每日使用/2025-12-15.md",
+    "每日使用/2025-12-13.md",
+    "每日使用",
+    "垃圾桶",
+    "哥飞文章分类",
+    "服务器部署/hugo项目",
+    "服务器部署",
+    "独立站出海",
+    "笔记/哥飞原笔记整理/未命名.base"
+  ]
+}
